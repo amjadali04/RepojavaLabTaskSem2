@@ -1,4 +1,4 @@
-package CH2_Elementary_prog_DL;
+//package CH2_Elementary_prog_DL;
 import java.util.*;
 public class GuessTheNum {
 public static void main(String[] args) {

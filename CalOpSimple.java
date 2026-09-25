@@ -5,7 +5,7 @@ public class CalOpSimple {
         System.out.println("addition is : "+(num1+num2));
         System.out.println("subtraction is : "+(num1-num2));
         System.out.println("devision is : "+(float)(num1/num2));
-        System.out.println("multiplication is : "+(num1*num2));
+        System.out.println("multiplication is : "+(num1*num2));      
     
     }
     }
